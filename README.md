@@ -1,5 +1,8 @@
 # serverless methodologies and frameworks
 
+FarGate Pattern with Docker ECS AWS
+https://github.com/quantum-fusion/fargate-patterns
+
 Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda
 https://github.com/awslabs/aws-serverless-java-container
 
